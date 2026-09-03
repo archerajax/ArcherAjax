@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-turn ambiguous business requirements into scalable, secure, and commercially successful outcomes. My work sits at the intersection of technical pre-sales, solution architecture, and applied AI—leading discovery, de-risking deals, and owning the conversation from first call through post-launch growth.  
+I turn ambiguous business requirements into scalable, secure, and commercially successful outcomes. My work sits at the intersection of technical pre-sales, solution architecture, and applied AI—leading discovery, de-risking deals, and owning the conversation from first call through post-launch growth.  
 As the former founder of a full-service digital agency, I built and led the proposal, estimating, and sales-engineering functions behind a national client base. I’ve supported HIPAA-compliant technology programs for healthcare brands, applied AI tooling to speed up proposal and estimating workflows, and served as a trusted advisor to client IT and executive teams.  
 The common thread: making high-scale, high-stakes technology accessible—and turning it into revenue.
 
