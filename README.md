@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=610&height=44&lines=AI%20Development%2C%20Consulting%20%26%20Execution;Turning%20ideas%20into%20clean%2C%20tested%20code." alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
 As the former founder of a full-service digital agency, I built and led the proposal, estimating, and sales-engineering functions behind a national client base. I’ve supported HIPAA-compliant technology programs for healthcare brands, applied AI tooling to speed up proposal and estimating workflows, and served as a trusted advisor to client IT and executive teams.  
