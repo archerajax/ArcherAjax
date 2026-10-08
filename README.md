@@ -72,13 +72,7 @@ The common thread: making high-scale, high-stakes technology accessible—and tu
 <p align="left">
   <a href="https://www.linkedin.com/in/4tomgranger/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.tomgranger.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:1tomgranger@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=archerajax&show_icons=true&theme=transparent&title_color=d29922&icon_color=d29922&text_color=c9d1d9&hide_border=true" alt="ArcherAjax GitHub Stats" />
+  <a href="mailto:tom@tomgranger.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
