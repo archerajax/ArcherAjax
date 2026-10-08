@@ -78,7 +78,7 @@ The common thread: making high-scale, high-stakes technology accessible—and tu
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=archerajax&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=archerajax&show_icons=true&theme=transparent&title_color=d29922&icon_color=d29922&text_color=c9d1d9&hide_border=true" alt="ArcherAjax GitHub Stats" />
 </p>
 
 ---
